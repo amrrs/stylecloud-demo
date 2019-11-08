@@ -1,6 +1,8 @@
 # stylecloud-demo
 Demonstrating stylecloud - the modern-stylish wordcloud library for Python
 
+Package: [`stylecloud`](https://github.com/minimaxir/stylecloud)
+
 ```py
 import stylecloud
 stylecloud.gen_stylecloud(file_path = "2009-01-20-inaugural-address.txt", icon_name= "fab fa-twitter", palette="cartocolors.diverging.TealRose_7", background_color="black")
