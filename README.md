@@ -1,7 +1,10 @@
 # stylecloud-demo
-Demonstrating stylecloud - the modern-stylish wordcloud library for Python
 
-Package: [`stylecloud`](https://github.com/minimaxir/stylecloud)
+### Demonstrating stylecloud - the modern-stylish wordcloud library for Python
+
+### Package: [`stylecloud`](https://github.com/minimaxir/stylecloud)
+
+**Code**
 
 ```py
 import stylecloud
